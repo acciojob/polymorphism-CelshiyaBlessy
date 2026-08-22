@@ -1,7 +1,7 @@
 package com.driver;
 
 public class Main {
-    static class Product {
+    public static class Product {
 
         // Method 1: takes 2 int values
         public int product(int x, int y) {
